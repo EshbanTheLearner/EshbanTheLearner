@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://octodex.github.com/images/heisencat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/boxertocat_octodex.jpg" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/pythocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/ironcat.jpg" height="160px" width="160px"> </p>
 
-<h1 align="center">Hey, <a href="https://eshbanthelearner.github.io/portfolio/"  target="_blank">Eshban!</a> 👋</h1>
+<h1 align="center">Hey, I'm <a href="https://eshbanthelearner.github.io/portfolio/"  target="_blank">Eshban!</a> 👋</h1>
     
 <h3 align="center">An ardent programmer and data scientist in quest to learn the secrets of the universe! :spades: :grin: </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EshbanTheLearner&style=flat&color=blueviolet" alt=eshban/> </p>
