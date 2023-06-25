@@ -2,9 +2,9 @@
 <img src="./assets/borderseperator.gif">
 <h2 align="center"> Data Scientist, Machine Learning Engineer and a Passionate Programmer!</h2><br>
 
-* 🌳 I’m currently learning W&B tool alongside Graph Neural Networks <br>
+* 🌳 I’m currently learning Graph Neural Networks as well as Linear Programming <br>
 
-* 🌊 2023 Goals: Consistenly learn new concepts and tools <br>
+* 🌊 2023 Goals: Consistently learn new concepts and tools <br>
 
 * ☕ Interest: Technology, Cinema, Sports <br>
 
