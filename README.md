@@ -79,21 +79,6 @@ I'm passionate about writing about what I learn — from NLP deep-dives (*The NL
 
 ---
 
-## Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [**Movie Recommendation Engine**](https://github.com/EshbanTheLearner/movie-recommendation-engine) | Collaborative & content-based recommendation system built on TMDB data |
-| [**Customer Segmentation**](https://github.com/EshbanTheLearner/Customer-Segmentation) | RFM analysis + K-Means clustering for actionable customer insights |
-| [**The NLP Grimoire**](https://github.com/EshbanTheLearner/the-NLP-Grimoire) | Code companion for my NLP article series — tokenization to transformers |
-| [**Reginald von Doom**](https://github.com/EshbanTheLearner/reginald-von-doom) | ML experimentation sandbox |
-| [**AWS Preprocessing Pipeline**](https://github.com/EshbanTheLearner/preprocessing-pipeline-demo) | Event-driven data pipeline demo built on AWS |
-| [**Neo Noir Theme**](https://github.com/EshbanTheLearner/neo-noir-theme) | Minimal aesthetic portfolio template — pure HTML/CSS/JS |
-| [**Portfolio (Streamlit)**](https://github.com/EshbanTheLearner/portfolio-streamlit) | Personal portfolio app built with Streamlit |
-| [**100 Days of ML Code**](https://github.com/EshbanTheLearner/100DaysofMLCode) | Daily ML coding challenge — models, notebooks & experiments |
-
----
-
 <div align="center">
 
 <i>Built with intention. Let's connect and build something great.</i>
