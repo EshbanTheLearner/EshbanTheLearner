@@ -1,38 +1,101 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Eshban!+Welcome+to+my+Profile!" alt="Typing SVG" /></a>
-<img src="./assets/borderseperator.gif">
-<h2 align="center"> Data Scientist, Machine Learning Engineer and a Passionate Programmer!</h2><br>
+<div align="center">
 
-* 🌳 I’m currently learning Graph Neural Networks as well as Linear Programming <br>
+<img src="https://readme-typing-svg.demolab.com?font=Syne&size=38&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hi%2C+I%27m+Eshban+Suleman" alt="typing svg" />
 
-* 🌊 2023 Goals: Consistently learn new concepts and tools <br>
+<img src="https://readme-typing-svg.demolab.com?font=Syne&size=22&duration=2800&pause=2000&color=6C9FFF&center=true&vCenter=true&width=940&height=40&lines=Senior+Data+Scientist+%7C+Machine+Learning+Engineer+%7C+NLP+Researcher" alt="subtitle svg" />
 
-* ☕ Interest: Technology, Cinema, Sports <br>
+<br/>
 
-* :octocat: Hobbies: Sleeping, Cooking, Movies <br><br>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=EshbanTheLearner&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
-</p> <br>
+  <a href="https://www.linkedin.com/in/eshban-suleman-624a49113/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/EshbanSuleman" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://eshbanthelearner-portfolio-streamlit-app-yvll93.streamlit.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_eshban_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=EshbanTheLearner&color=6C9FFF&style=flat-square&label=Profile+Views" alt="profile views" />
+
+</div>
+
+---
+
+## About Me
+
+I'm a **Senior Data Scientist** specializing in building advanced machine learning pipelines, NLP systems, and data-driven solutions that translate into measurable business impact. With a background spanning data engineering, computer vision, and deep learning, I thrive at the intersection of research and production engineering.
+
+I'm passionate about writing about what I learn — from NLP deep-dives (*The NLP Grimoire* series) to cloud architecture (*Event-Driven Data Pipelines in AWS*).
+
+- 🎓 **B.Sc.** — GC University Lahore  
+- 📍 Currently exploring: Graph Neural Networks, Linear Programming, Rust & Go  
+- ☕ Interests: Technology, Cinema, Sports  
+
+---
+
+## Experience
+
+| Role | Company | Description |
+|------|---------|-------------|
+| **Lead Data Scientist** | Ooredoo | Led the development of complex Agentic AI Workflows | 
+| **Senior Data Scientist** | TenX | Developing advanced ML models and data analysis pipelines to drive business insights |
+| **Senior Data Scientist** | Foretheta | Built ML-backed products in secure data engineering; contributed to Traindex & Billgist |
+
+---
+
+## Tech Stack
+
+### Core Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4472C4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-DEA520?style=for-the-badge&logo=rust&logoColor=white" />
+</p>
+
+### Machine Learning & Data Science
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/W%26B-FFBE7A?style=for-the-badge&logo=weights-biases&logoColor=black" />
+</p>
+
+### Computer Vision & NLP
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3317?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging+Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/spaCy-09555B?style=for-the-badge&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLTK-006400?style=for-the-badge&logoColor=white" />
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [**Movie Recommendation Engine**](https://github.com/EshbanTheLearner/movie-recommendation-engine) | Collaborative & content-based recommendation system built on TMDB data |
+| [**Customer Segmentation**](https://github.com/EshbanTheLearner/Customer-Segmentation) | RFM analysis + K-Means clustering for actionable customer insights |
+| [**The NLP Grimoire**](https://github.com/EshbanTheLearner/the-NLP-Grimoire) | Code companion for my NLP article series — tokenization to transformers |
+| [**Reginald von Doom**](https://github.com/EshbanTheLearner/reginald-von-doom) | ML experimentation sandbox |
+| [**AWS Preprocessing Pipeline**](https://github.com/EshbanTheLearner/preprocessing-pipeline-demo) | Event-driven data pipeline demo built on AWS |
+| [**Neo Noir Theme**](https://github.com/EshbanTheLearner/neo-noir-theme) | Minimal aesthetic portfolio template — pure HTML/CSS/JS |
+| [**Portfolio (Streamlit)**](https://github.com/EshbanTheLearner/portfolio-streamlit) | Personal portfolio app built with Streamlit |
+| [**100 Days of ML Code**](https://github.com/EshbanTheLearner/100DaysofMLCode) | Daily ML coding challenge — models, notebooks & experiments |
+
+---
 
 <div align="center">
-  <h2> <strong> My Github Stats </strong> <img src="./assets/borderseperator.gif"></h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=EshbanTheLearner&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
 
-  <img src="https://github-readme-stats-i66v.vercel.app/api/top-langs/?username=EshbanTheLearner&theme=tokyonight&langs_count=6&card_width=500&hide_border=true&layout=compact" alt="Most used languages" /> <br>
+<i>Built with intention. Let's connect and build something great.</i>
 
-  <img src="https://streak-stats.demolab.com?    user=EshbanTheLearner&theme=tokyonight&hide_border=true&border_radius=0" height="150" alt="streaks graph"  />
-
-  <img src="https://github-readme-stats-i66v.vercel.app/api?username=EshbanTheLearner&theme=tokyonight&show_icons=true&hide_border=true&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
-</div> <br>
-
-[![EshbanTheLearner's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=EshbanTheLearner&theme=tokyo-night&custom_title=EshbanTheLearner's%20GitHub%20Activity%20Graph&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img src="./assets/borderseperator.gif">
-<h3 align="center">Connect With Me</h3>
-
-
-<p align="center"> 
-<a href="https://twitter.com/EshbanSuleman" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="@EshbanSuleman" height="50" width="50"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/eshban-suleman-624a49113/" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="https://www.linkedin.com/in/eshban-suleman-624a49113/" height="50" width="50" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/_eshban_/" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="@_eshban_" height="50" width="50" /></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/eshban.suleman/" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="/eshban.suleman" height="50" width="50" /></a>&nbsp;&nbsp;
-</p>
+</div>
